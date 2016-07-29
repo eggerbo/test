@@ -1,3 +1,6 @@
+// New comment
+
+
 //Macro for nuclei segmentation Version 070415
 
 open();
